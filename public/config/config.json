@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4d69f751cabec5c7FBE55D4CD43CE4FA84ad4649",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NewYearPunksClub",
+  "SYMBOL": "NYPC",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://google.com/",
+  "SHOW_BACKGROUND": true
+}
